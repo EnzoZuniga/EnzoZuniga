@@ -4,7 +4,10 @@
 
 <br />
 
-Hi, I'm [Enzo Zuniga], a passionate Front-End web developer and a student in France. My passion is to create some elegant website. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Enzo Zuniga — a Full-Stack developer based in France.
+I build robust web apps and SaaS with React, TypeScript and Node.js,
+with a strong focus on architecture, UX and code quality (tests, CI/CD).
+Open to opportunities in French-speaking Switzerland.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
